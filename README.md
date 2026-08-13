@@ -11,5 +11,5 @@ Developer working on Discord bots, browser tools, and AI API integrations.
 
 TypeScript, JavaScript, Node.js, discord.js, HTML/CSS, Python, Lua
 
-![Banner](https://imgur.com/a/WXcT2jD)
+![Banner](https://i.imgur.com/j3xMgoS.jpeg)
 Reach me on [GitHub](https://github.com/payaci).
