@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/payaci">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+training;The+world+is+yours.;Building+things+one+bug+at+a+time.;Powered+by+monster+%26+curiosity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+training.;The+world+is+yours.;Building+things+one+bug+at+a+time.;Powered+by+monster+%26+curiosity." alt="Typing SVG" />
 </a>
 </div>
 <hr style="width:100%; border: 1px solid #30363d;">
